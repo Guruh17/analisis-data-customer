@@ -1,17 +1,15 @@
 <div align="center">
 
-  <h1>[Nama Proyek Anda]</h1>
+  <h1>Menganalisis Data Pelanggan Ecommerce</h1>
 
   <p>
-    <b>Deskripsi singkat 1-2 kalimat yang menjelaskan inti dari proyek ini dan masalah apa yang diselesaikannya.</b>
+    <b>Disini saya melakukan penangan dataset pelanggan ecommerce dan melakukan analisis.</b>
   </p>
 
   <h4>
-    <a href="#-demo--tampilan">Lihat Demo</a>
+    <a href="#-tentang--proyek">Tentang Proyek</a>
     ·
-    <a href="#-instalasi">Instalasi</a>
-    ·
-    <a href="https://github.com/username/repository-name/issues/new">Laporkan Bug</a>
+    <a href="#-teknologi--yang--digunakan">Teknologi yang Digunakan</a>
   </h4>
 
 </div>
@@ -22,15 +20,7 @@
 
 ## 🧐 Tentang Proyek
 
-Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar belakang pembuatan. Anda bisa menjelaskan alasan membuat proyek ini dan teknologi utama yang menjadi fondasinya.
-
-
-## ✨ Fitur Utama
-
-- 🚀 **Performa Tinggi:** Dioptimalkan untuk kecepatan dan efisiensi.
-- 🎨 **Antarmuka Responsif:** Tampilan yang menyesuaikan di layar desktop maupun mobile.
-- 🔒 **Keamanan Terjamin:** Menggunakan autentikasi dan validasi data terenkripsi.
-- 🛠️ **Mudah Dikonfigurasi:** Struktur kode modular yang gampang disesuaikan.
+Pada proyek kali ini saya melakukan penangan _missing Value_ dan _outlier_ pada dataset 'ecommerce_customers.csv'. Setelah melakukan hal tersebut, saya ingin mencoba melakuakan beberapa visualiasi yang dapat menjelaskan isi dari dataset.
 
 ---
 
@@ -39,13 +29,12 @@ Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar b
 Daftar framework, bahasa pemrograman, atau pustaka utama:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 
 ### Prasyarat
 
