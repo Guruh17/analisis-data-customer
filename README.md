@@ -20,7 +20,7 @@
 
 ## 🧐 Tentang Proyek
 
-Pada proyek kali ini saya melakukan penangan _missing Value_ dan _outlier_ pada dataset 'ecommerce_customers.csv'. Setelah melakukan hal tersebut, saya ingin mencoba melakuakan beberapa visualiasi yang dapat menjelaskan isi dari dataset.
+Pada proyek kali ini saya melakukan penangan _missing value_ dan _outlier_ pada dataset 'ecommerce_customers.csv'. Setelah melakukan hal tersebut, saya ingin mencoba melakuakan beberapa visualiasi yang dapat menjelaskan isi dari dataset.
 
 ---
 
